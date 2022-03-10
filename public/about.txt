@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Sans Marchen
+- Font Author: Copyright 2020 Google Inc. All Rights Reserved.
+- Font Source: http://fonts.gstatic.com/s/notosansmarchen/v13/aFTO7OZ_Y282EP-WyG6QTOX_C8WZMHhPk652ZaHk.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
